@@ -1,0 +1,9 @@
+name: TobyRuns
+main: monkeyboystein.Main
+version: 1.0
+commands:
+   tr:
+      description: Toby Runs!
+      usage: /<command>
+      permission: tr.admin
+      permission-message: Im sorry Dave, I'm afraid I cant let you do that! <permission>
